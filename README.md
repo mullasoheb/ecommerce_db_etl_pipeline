@@ -68,7 +68,7 @@ Git & GitHub
 ⚙️ Installation & Setup
 -------------------------------------------------------------------------------------------------------------------------
 1. Clone the Repository
-git clone https://github.com/mulla-soheb/ecommerce_db_etl_pipeline.git
+git clone https://github.com/mullasoheb/ecommerce_db_etl_pipeline
 
 Navigate to the project:
 
